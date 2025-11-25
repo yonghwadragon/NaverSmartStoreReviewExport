@@ -19,3 +19,16 @@ review_dedup_inspector1.py : 리뷰중에 중복이 어느 페이지 몇에 있�
 기본 설정에서는 최대 10페이지까지만 추출\
 최대 100페이지 수집하고 싶으면\
 extract_reviews_to_csv(url, limit_pages=100)
+
+# 
+smartstore_review_api.py 이게 아마 거의 최종본 이후에 이름 바뀔 수도 있음
+
+smartstore_review_api_2511251854.py 뒤에 시간인데 2511251854 주석봐
+
+smartstore_review_api_2511252216.py 뒤에 시간인데 2511252216 주석봐
+
+smartstore_review_api_x1.py는 안되는거라서 x 안되는 이유는 안에 주석봐
+
+smartstore_review_api_x2.py는 안되는거라서 x 안되는 이유는 안에 주석봐
+
+smartstore_review_scraper.py 이것을 일단 로컬에서 만들고 로컬에서 돌아가니 api로 만들고 물론 서버에서도 돌아가게 하는 여러가지
