@@ -23,6 +23,8 @@ extract_reviews_to_csv(url, limit_pages=100)
 # 
 smartstore_review_api.py 이게 아마 거의 최종본 이후에 이름 바뀔 수도 있음
 
+smartstore_review_api_2511252236.py 위랑 똑같은 코드
+
 smartstore_review_api_2511251854.py 뒤에 시간인데 2511251854 주석봐
 
 smartstore_review_api_2511252216.py 뒤에 시간인데 2511252216 주석봐
